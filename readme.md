@@ -1,0 +1,1 @@
+This repository serves as a place holder for releases of the viewer. Since recorder and viewer share the same code base, no actual code isn checked into this rep. Instead, all is found in https://github.com/jan-bogaerts/cam-i
